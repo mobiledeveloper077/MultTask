@@ -5,7 +5,7 @@ import androidx.room.Room
 import dagger.Module
 import dagger.Provides
 import uz.abduvali.data.database.AppDatabase
-import uz.abduvali.domain.database.dao.CharacterDao
+import uz.abduvali.data.database.dao.CharacterDao
 import javax.inject.Singleton
 
 @Module
